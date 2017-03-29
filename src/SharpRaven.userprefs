@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{156621FC-2C48-4CDF-A368-9347BABE9089}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="app/SharpRaven/Configuration.cs">
+    <Files>
+      <File FileName="app/SharpRaven/SharpRaven.nuspec" Line="19" Column="20" />
+      <File FileName="app/SharpRaven/packages.config" Line="4" Column="80" />
+      <File FileName="app/SharpRaven/IRavenClient.cs" Line="1" Column="1" />
+      <File FileName="app/SharpRaven/SharpRaven.csproj" Line="12" Column="15" />
+      <File FileName="app/SharpRaven/Configuration.cs" Line="26" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug 4.0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.tests.SharpRaven.WebTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
